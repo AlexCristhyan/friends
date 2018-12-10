@@ -1,0 +1,8 @@
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\bin\Debug\netcoreapp2.0\Friends.Domain.deps.json
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\bin\Debug\netcoreapp2.0\Friends.Domain.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\bin\Debug\netcoreapp2.0\Friends.Domain.pdb
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\obj\Debug\netcoreapp2.0\Friends.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\obj\Debug\netcoreapp2.0\Friends.Domain.AssemblyInfoInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\obj\Debug\netcoreapp2.0\Friends.Domain.AssemblyInfo.cs
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\obj\Debug\netcoreapp2.0\Friends.Domain.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Domain\obj\Debug\netcoreapp2.0\Friends.Domain.pdb

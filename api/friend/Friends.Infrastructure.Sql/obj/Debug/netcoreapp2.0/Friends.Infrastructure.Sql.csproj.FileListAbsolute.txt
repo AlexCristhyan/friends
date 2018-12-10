@@ -1,0 +1,12 @@
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.deps.json
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.csproj.CoreCompileInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.AssemblyInfoInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.AssemblyInfo.cs
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.csprojAssemblyReference.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.pdb
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Friends.Domain.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\bin\Debug\netcoreapp2.0\Friends.Domain.pdb
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.csproj.CopyComplete
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Infrastructure.Sql\obj\Debug\netcoreapp2.0\Friends.Infrastructure.Sql.pdb

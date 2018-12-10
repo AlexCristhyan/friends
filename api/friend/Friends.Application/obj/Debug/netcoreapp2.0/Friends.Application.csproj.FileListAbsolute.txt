@@ -1,0 +1,12 @@
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\bin\Debug\netcoreapp2.0\Friends.Application.deps.json
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\bin\Debug\netcoreapp2.0\Friends.Application.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\bin\Debug\netcoreapp2.0\Friends.Application.pdb
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\bin\Debug\netcoreapp2.0\Friends.Domain.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\bin\Debug\netcoreapp2.0\Friends.Domain.pdb
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.csprojAssemblyReference.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.csproj.CoreCompileInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.AssemblyInfoInputs.cache
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.AssemblyInfo.cs
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.csproj.CopyComplete
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.dll
+C:\Users\alex.santos\Desktop\teste-amigos\api\friend\Friends.Application\obj\Debug\netcoreapp2.0\Friends.Application.pdb
